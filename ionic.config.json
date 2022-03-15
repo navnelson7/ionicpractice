@@ -1,0 +1,7 @@
+{
+  "name": "musciaapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
